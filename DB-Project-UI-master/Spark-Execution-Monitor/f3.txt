@@ -1,0 +1,2 @@
+== Optimized Logical Plan ==
+Relation[Height#113L,Name#114,weight#115L] json

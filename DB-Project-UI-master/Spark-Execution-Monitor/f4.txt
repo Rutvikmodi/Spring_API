@@ -1,0 +1,2 @@
+== Physical Plan ==
+*Scan json [Height#113L,Name#114,weight#115L] Format: JSON, InputPaths: hdfs://hadoop1.example.com:9000/tmp/student_details.json, PushedFilters: [], ReadSchema: struct<Height:bigint,Name:string,weight:bigint>

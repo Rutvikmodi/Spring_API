@@ -1,0 +1,5 @@
+== Analyzed Logical Plan ==
+Height: bigint, Name: string, weight: bigint
+Project [Height#113L, Name#114, weight#115L]
++- SubqueryAlias b
+   +- Relation[Height#113L,Name#114,weight#115L] json
